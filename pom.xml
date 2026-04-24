@@ -36,6 +36,9 @@
 			<id>codeship</id>
 			<properties>
 					<db.test>107.170.116.150</db.test>
+				<properties>
+ 				 <sonar.organization>alsulaiman21-hub</sonar.organization>
+				</properties>
 			</properties>
 		</profile>
 		<profile>
